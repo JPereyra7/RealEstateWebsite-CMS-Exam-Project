@@ -7,7 +7,7 @@ Lillard & Co was built using React, Vite & TailwindCss. Feel free to explore it!
 
 # Mockups
 
-
+![LillardCo](https://github.com/user-attachments/assets/16fb7ba8-0b3d-42db-a2ee-f8536328a81f)
 
 
 # Url & Stack
