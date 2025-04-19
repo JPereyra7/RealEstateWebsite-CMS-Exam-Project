@@ -1,4 +1,4 @@
-# RealEstateWebsite-CMS-Exam-Project
+# RealEstateWebsite-CMS-Project
 This page is connected to my headless CMS Obsidian which is the website that makes API requests to the db which I alter using the cms.
 Lillard & Co was built using React, Vite & TailwindCss. Feel free to explore it!
 
@@ -14,7 +14,7 @@ Lillard & Co was built using React, Vite & TailwindCss. Feel free to explore it!
 
 Lillard & Co 🏘️: https://lillardco-realestate.netlify.app/
 
-This is my exam project called Obsidian. I built a headless cms for a fictional Real Estate Agency called "Lillard & Co". The idea behind this cms was to give the owner and employees of Lillard & Co a way to manage their real estate listings, and by using Obsidian they will be able to CRUD their data. This project was later converted into a desktop app using Electron.js.
+This is Obsidian, a headless cms for a fictional Real Estate Agency called "Lillard & Co". The idea behind this cms was to give the owner and employees of Lillard & Co a way to manage their real estate listings, and by using Obsidian they will be able to CRUD their data. This project was later converted into a desktop app using Electron.js.
 
 
 || Frontend ||
